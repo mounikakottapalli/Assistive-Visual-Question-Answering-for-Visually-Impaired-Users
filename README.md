@@ -1,4 +1,4 @@
-# Assistive Visual Question Answering (VQA) System
+# sign-language-gesture-recognition
 
 This project implements an Assistive VQA System designed for visually impaired users. It supports:
 
