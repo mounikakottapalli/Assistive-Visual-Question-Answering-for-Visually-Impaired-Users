@@ -1,0 +1,7 @@
+torch
+transformers
+Pillow
+pandas
+numpy
+scikit-learn
+nltk
